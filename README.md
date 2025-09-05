@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a final-year **B.E. Computer Science** student
 
 ## 🤝 Connect with Me  
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/1234567890?text=I%20am%20from%20your%20GitHub%20profile) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/7305296926?text=I%20am%20from%20your%20GitHub%20profile) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=helloffyt100@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/fw__ajish)
 
